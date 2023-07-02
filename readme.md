@@ -29,9 +29,9 @@ If you prefer to use a different version or host the library locally, update the
 
 7. Once connected to the smart contract, the message "connected to smart contract" will be displayed.
 
-8. You can now use the "GET MESSAGE FROM THE CONTRACT" button to retrieve the message stored in the smart contract. The message will be displayed below the button.
+8. You can now use the "GET STATUS" button to retrieve the message stored in the smart contract. The message will be displayed below the button.
 
-9. Similarly, you can use the "GET NUMBER FROM THE CONTRACT" button to retrieve the number stored in the smart contract. The number will be displayed below the button.
+9. Similarly, you can use the  "GET ADDITION(3,5)", "GET SUBTRACTION(5,3)" button to retrieve the number stored in the smart contract. The number will be displayed below the button.
 
 ## Note
 
@@ -42,5 +42,5 @@ If you prefer to use a different version or host the library locally, update the
 
 ## Author
 
-Chirag Arora
+Kislay Kaushal
 
